@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamaghafoor
+- 👋 Hi, I’m Abdul Ghafoor
 - 👀 I’m interested in Mobile & Web development technalogies
 - 🌱 I’m currently learning web and mobile development technalogies as much as I can
 - 💞️ I’m looking to collaborate on real-time projects
