@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Ghafoor
-- 👨‍💻 I’m a senior mobile app developer
+- 👨‍💻 I’m a senior web and mobile app developer
 - 🚀 Passionate about modern development technologies
 - 🤝 Open to collaborating on real-time projects
 - 📫 Reach me at abdulghafoor1525@gmail.com
