@@ -52,7 +52,7 @@ I'm a passionate software engineer with 5+ years of experience building scalable
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jamaghafoor&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jamaghafoor&theme=github-dark-blue)
 
 ---
 
