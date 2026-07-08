@@ -1,10 +1,66 @@
-- 👋 Hi, I’m Abdul Ghafoor
-- 👨‍💻 I’m a senior web and mobile app developer
-- 🚀 Passionate about modern development technologies
-- 🤝 Open to collaborating on real-time projects
-- 📫 Reach me at abdulghafoor1525@gmail.com
+# Hi there 👋, I'm Abdul Ghafoor
 
-<!---
-jamaghafoor/jamaghafoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Senior Software Engineer | Tech Lead | React Native Developer
+
+I'm a passionate software engineer with 5+ years of experience building scalable, high-performance cross-platform mobile applications. I enjoy transforming ideas into production-ready products with clean architecture, modern technologies, and exceptional user experiences.
+
+---
+
+## 👨‍💻 About Me
+
+- 📱 Senior React Native Developer & Tech Lead
+- ⚡ Building scalable Android & iOS applications
+- 💼 20+ production apps delivered
+- 🧠 Passionate about software architecture and performance optimization
+- 🌱 Currently exploring AI integrations and advanced mobile architectures
+- 🤝 Open to collaborations and exciting opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### State Management
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
+
+### Tools & Services
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge)
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jamaghafoor&theme=github-dark)
+
+---
+
+## 🤝 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/jam-abdul-ghafoor/
+- 📧 Email: abdulghafoor1525@gmail.com
+
+---
+
+> *"Clean code. Scalable architecture. Continuous learning."* 🚀
