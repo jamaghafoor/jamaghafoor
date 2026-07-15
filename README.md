@@ -2,18 +2,24 @@
 
 ### 🚀 Senior Software Engineer | Tech Lead | React Native Developer
 
-I'm a passionate software engineer with 5+ years of experience building scalable, high-performance cross-platform mobile applications. I enjoy transforming ideas into production-ready products with clean architecture, modern technologies, and exceptional user experiences.
+### Senior Software Engineer · Mobile Tech Lead · React Native Specialist
+I'm a results-driven software engineer and tech lead with 5+ years of experience architecting and delivering cross-platform mobile products at scale. I lead mobile engineering teams end-to-end — driving daily standups, aligning cross-functional stakeholders (design, backend, and project management), and owning technical decisions from architecture through App Store deployment.
+With 20+ production apps shipped across iOS and Android, I combine strong hands-on engineering with the leadership and communication skills to keep teams unblocked and shipping consistently.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📱 Senior React Native Developer & Tech Lead
-- ⚡ Building scalable Android & iOS applications
-- 💼 20+ production apps delivered
-- 🧠 Passionate about software architecture and performance optimization
-- 🌱 Currently exploring AI integrations and advanced mobile architectures
-- 🤝 Open to collaborations and exciting opportunities
+I specialise in building **cross-platform mobile applications** with React Native and Expo, with deep expertise in native module bridging, performance optimisation, and scalable architecture. As a Tech Lead, I manage the full mobile engineering lifecycle — from sprint planning and daily standups to cross-functional collaboration with designers, backend engineers, and project managers.
+- 📱 **5+ years** building production-grade iOS & Android applications  
+- 🏗️ **20+ apps shipped** — from MVP through App Store & Play Store deployment  
+- 👥 **Mobile Tech Lead** — managing and mentoring a team of mobile developers  
+- 🔗 **Cross-functional liaison** — daily collaboration with design, backend, and PM teams  
+- 🗓️ **Delivery ownership** — standups, sprint planning, code review, and progress tracking  
+- 🤖 **AI integration** — ChatGPT API, Meta Llama, and on-device ML features  
+- ⚡ Focused on **performance, clean architecture, and offline-first** patterns  
+- 🌱 Currently deepening expertise in AI-powered mobile experiences  
+- 🤝 Open to senior IC and tech lead roles — remote or hybrid
 
 ---
 
@@ -46,6 +52,8 @@ I'm a passionate software engineer with 5+ years of experience building scalable
 ![Antigravity](https://img.shields.io/badge/Antigravity_IDE-6C63FF?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/ChatGPT_API-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ### ☁️ Cloud, DevOps & Services
 
