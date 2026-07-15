@@ -47,21 +47,36 @@ I'm a passionate software engineer with 5+ years of experience building scalable
 ![OpenAI](https://img.shields.io/badge/ChatGPT_API-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-### Tools & Services
+### ☁️ Cloud, DevOps & Services
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Firebase Cloud Functions](https://img.shields.io/badge/Firebase_Cloud_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge)
+
+### 🤝 Collaboration & Project Management
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Tools & Services
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white)
-![Firebase Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Localization](https://img.shields.io/badge/Localization-4285F4?style=for-the-badge)
-![Dynamic Themes](https://img.shields.io/badge/Theming-7B61FF?style=for-the-badge)
+![Dynamic Themes](https://img.shields.io/badge/Dynamic_Themes-7B61FF?style=for-the-badge)
 ![Offline Support](https://img.shields.io/badge/Offline_Support-34A853?style=for-the-badge)
 ![Native Bridging](https://img.shields.io/badge/Native_Bridging-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Universal Links](https://img.shields.io/badge/Universal_Links-0A84FF?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge)
+
 ---
 ## 📱 Mobile Expertise
 
