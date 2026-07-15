@@ -38,7 +38,14 @@ I'm a passionate software engineer with 5+ years of experience building scalable
 ### State Management
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
-![Context API](https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Context API](https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### AI & Developer Tools
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-6C63FF?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/ChatGPT_API-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 ### Tools & Services
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,10 +54,35 @@ I'm a passionate software engineer with 5+ years of experience building scalable
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white)
+![Firebase Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Localization](https://img.shields.io/badge/Localization-4285F4?style=for-the-badge)
+![Dynamic Themes](https://img.shields.io/badge/Theming-7B61FF?style=for-the-badge)
+![Offline Support](https://img.shields.io/badge/Offline_Support-34A853?style=for-the-badge)
+![Native Bridging](https://img.shields.io/badge/Native_Bridging-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Universal Links](https://img.shields.io/badge/Universal_Links-0A84FF?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge)
 ---
+## 📱 Mobile Expertise
 
+- ✅ Cross-Platform Mobile Development (React Native & Expo)
+- ✅ Native Module Bridging (Android & iOS)
+- ✅ REST API & GraphQL Integration
+- ✅ Firebase Cloud Functions
+- ✅ ChatGPT & Meta Llama API Integration
+- ✅ Real-time Chat & Voice/Video Calling
+- ✅ Google Maps & Mapbox Integration
+- ✅ Push Notifications
+- ✅ Universal Links & Deep Linking
+- ✅ Localization (i18n)
+- ✅ Dynamic Themes (Light/Dark Mode)
+- ✅ Offline-First Applications
+- ✅ App Performance Optimization
+- ✅ Memory & CPU Optimization
+- ✅ CI/CD Pipelines
+- ✅ App Store & Google Play Store Deployment
+
+---
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jamaghafoor&theme=github-dark-blue)
