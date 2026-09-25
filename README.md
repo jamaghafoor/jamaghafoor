@@ -2,7 +2,7 @@
 
 ### 🚀 Senior Software Engineer | Tech Lead | React Native Developer
 
-I'm a results-driven software engineer and tech lead with 5+ years of experience architecting and delivering cross-platform mobile products at scale. I lead mobile engineering teams end-to-end — driving daily standups, aligning cross-functional stakeholders (design, backend, and project management), and owning technical decisions from architecture through App Store deployment.
+I'm a results-driven software engineer and tech lead with 6+ years of experience architecting and delivering cross-platform mobile products at scale. I lead mobile engineering teams end-to-end — driving daily standups, aligning cross-functional stakeholders (design, backend, and project management), and owning technical decisions from architecture through App Store deployment.
 With 20+ production apps shipped across iOS and Android, I combine strong hands-on engineering with the leadership and communication skills to keep teams unblocked and shipping consistently.
 
 ---
